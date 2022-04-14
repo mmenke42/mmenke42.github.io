@@ -1,13 +1,6 @@
 # mmenke42.github.io
 Prog 1
 
-Need 4 Projects + Midterm Project
-All Need:
-Title
-Description (brief general description of the project)
-Screenshots and additional information about your work.
-Additional information can include technical details, UML, unique ways you solved the challenge, etc.
-
 Midterm: Adventure Game
 Console-based investigation-like game where the player must gather information from clues and witness testimony and arrest the killer. 
 ![image](https://user-images.githubusercontent.com/100654943/163308494-82aecd84-6f4b-49b0-8a31-d60bbe27a8f7.png)
